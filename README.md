@@ -1,4 +1,4 @@
-Here are some ideas to get you started:
+### Hello 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,12 +10,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔥 Go Communitity https://www.owenzhang.com
 
+<a href="https://github.com/anuraghazra/convoychat" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenZhang24&langs_count=8&count_private=true&layout=compact&card_width=250" />
+
+[comment]: <> (<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenZhang24" />)
+</a>
+
 [![OwenZhang24's github stats](https://github-readme-stats.vercel.app/api?username=OwenZhang24)](https://github.com/OwenZhang24)
 
-[![OwenZhang24's convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenZhang24&langs_count=8&count_private=true&layout=compact&card_width=250)](https://github.com/OwenZhang24)
-
-
-**Skills:**
+### Skills 🌈
 
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/go.svg"></code>
