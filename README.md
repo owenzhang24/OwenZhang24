@@ -20,6 +20,3 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kubernetes.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg"></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg"></code>
