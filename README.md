@@ -10,11 +10,7 @@
 - ⚡ Fun fact: ...
 - 🔥 Go Communitity https://www.owenzhang.com
 
-<a href="https://github.com/anuraghazra/convoychat" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenZhang24&langs_count=8&count_private=true&layout=compact&card_width=250" />
-
-[comment]: <> (<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenZhang24" />)
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenZhang24&langs_count=8&count_private=true&layout=compact&card_width=250" />
 
 [![OwenZhang24's github stats](https://github-readme-stats.vercel.app/api?username=OwenZhang24)](https://github.com/OwenZhang24)
 
