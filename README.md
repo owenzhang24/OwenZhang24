@@ -2,8 +2,8 @@
 
 - 🔭 I’m interested in computer science and astronomy.
 - 🌱 Currently learning Linux, Go, PHP Distributed Systems.
-- 👯 With 5 years’ Software Engineering.
-- 🤔 Want to participate in open source.
+- 💻 With 5 years’ Software Engineering.
+- ⛵ Want to participate in open source.
 - 📫 owen@owenzhang.com
 - 😄 Hobby: music, photograph, swim, gym.
 - 🔥 Go Communitity https://www.owenzhang.com
